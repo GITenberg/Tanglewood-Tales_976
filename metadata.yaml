@@ -1,0 +1,31 @@
+_repo: Tanglewood-Tales_976
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: 'In this collection of tales for children Hawthorne retells six famous
+  Greek myths: Circe''s Palace, The Dragon''s Teeth, The Golden Fleece, The Minotaur,
+  The Pomegranate Seeds, and The Pygmies. The original stories were altered considerably
+  so that they would be suitable for young readers.'
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '1997-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '976'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Mythology, Classical -- Juvenile literature'
+- GITenberg
+tableOfContents: The wayside -- The minotaur -- The pygmies -- The dragon's teeth
+  -- Circe's palace -- The pomegranate seeds -- The golden fleece.
+title: Tanglewood Tales
+url: http://www.gutenberg.org/ebooks/976
